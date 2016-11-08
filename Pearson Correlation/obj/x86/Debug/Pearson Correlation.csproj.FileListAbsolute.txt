@@ -1,0 +1,22 @@
+C:\Work Files\Programs\Pearson Correlation\Pearson Correlation\bin\Debug\Pearson Correlation.exe
+C:\Work Files\Programs\Pearson Correlation\Pearson Correlation\bin\Debug\Pearson Correlation.pdb
+C:\Work Files\Programs\Pearson Correlation\Pearson Correlation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Work Files\Programs\Pearson Correlation\Pearson Correlation\obj\x86\Debug\Pearson Correlation.exe
+C:\Work Files\Programs\Pearson Correlation\Pearson Correlation\obj\x86\Debug\Pearson Correlation.pdb
+Z:\Program\NDP_and_Pearson Correlation\Pearson Correlation\obj\x86\Debug\Pearson Correlation.exe
+Z:\Program\NDP_and_Pearson Correlation\Pearson Correlation\obj\x86\Debug\Pearson Correlation.pdb
+Z:\Programming\NDP_and_Pearson Correlation\Pearson Correlation\obj\x86\Debug\Pearson Correlation.exe
+Z:\Programming\NDP_and_Pearson Correlation\Pearson Correlation\obj\x86\Debug\Pearson Correlation.pdb
+Z:\Programming\NDP_and_Pearson Correlation\Pearson Correlation\bin\Debug\Pearson Correlation.exe
+Z:\Programming\NDP_and_Pearson Correlation\Pearson Correlation\bin\Debug\Pearson Correlation.pdb
+Z:\Programming\NDP_and_Pearson Correlation\Pearson Correlation\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Programming\NDP_and_Pearson Correlation\Pearson Correlation\obj\x86\Debug\Pearson Correlation.exe
+P:\Programming\NDP_and_Pearson Correlation\Pearson Correlation\obj\x86\Debug\Pearson Correlation.pdb
+P:\Programming\NDP_and_Pearson Correlation\Pearson Correlation\bin\Debug\Pearson Correlation.exe
+P:\Programming\NDP_and_Pearson Correlation\Pearson Correlation\bin\Debug\Pearson Correlation.pdb
+P:\Programming\NDP_and_Pearson Correlation\Pearson Correlation\obj\x86\Debug\Pearson Correlation.csprojResolveAssemblyReference.cache
+P:\Programming\new idmsms\Pearson Correlation\obj\x86\Debug\Pearson Correlation.exe
+P:\Programming\new idmsms\Pearson Correlation\obj\x86\Debug\Pearson Correlation.pdb
+P:\Programming\new idmsms\Pearson Correlation\obj\x86\Debug\Pearson Correlation.csprojResolveAssemblyReference.cache
+P:\Programming\new idmsms\Pearson Correlation\bin\Debug\Pearson Correlation.exe
+P:\Programming\new idmsms\Pearson Correlation\bin\Debug\Pearson Correlation.pdb

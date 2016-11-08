@@ -1,0 +1,28 @@
+P:\Programming\new idmsms\Pearson Correlation\bin\Debug\Pearson Correlation.exe
+P:\Programming\new idmsms\Pearson Correlation\bin\Debug\Pearson Correlation.pdb
+P:\Programming\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.exe
+P:\Programming\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.pdb
+D:\data\idmsms\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.exe
+D:\data\idmsms\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.pdb
+D:\data\idmsms\new idmsms\Pearson Correlation\bin\Debug\Pearson Correlation.exe
+D:\data\idmsms\new idmsms\Pearson Correlation\bin\Debug\Pearson Correlation.pdb
+D:\data\idmsms\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.csprojResolveAssemblyReference.cache
+\\ECO-THOMAS2\data\idmsms\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.exe
+\\ECO-THOMAS2\data\idmsms\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.pdb
+C:\Dapeng_data\idMSMS different tissue\CDF positive\MIX Results\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.exe
+C:\Dapeng_data\idMSMS different tissue\CDF positive\MIX Results\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.pdb
+C:\Dapeng_data\idMSMS different tissue\CDF positive\MIX Results\new idmsms\Pearson Correlation\bin\Debug\Pearson Correlation.exe
+C:\Dapeng_data\idMSMS different tissue\CDF positive\MIX Results\new idmsms\Pearson Correlation\bin\Debug\Pearson Correlation.pdb
+C:\Dapeng_data\idMSMS different tissue\CDF positive\MIX Results\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.csprojResolveAssemblyReference.cache
+E:\Different tissues\idMSMS different tissue\MIX Results\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.exe
+E:\Different tissues\idMSMS different tissue\MIX Results\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.pdb
+E:\Different tissues\idMSMS different tissue\MIX Results\new idmsms\Pearson Correlation\bin\Debug\Pearson Correlation.exe
+E:\Different tissues\idMSMS different tissue\MIX Results\new idmsms\Pearson Correlation\bin\Debug\Pearson Correlation.pdb
+E:\Different tissues\idMSMS different tissue\MIX Results\new idmsms\Pearson Correlation\obj\Debug\Pearson Correlation.csprojResolveAssemblyReference.cache
+E:\Collaboration Work\Emmanuel\QToF data\5species\idMSMS\cdf\New idmsms assembly\Pearson Correlation\obj\Debug\Pearson Correlation.exe
+E:\Collaboration Work\Emmanuel\QToF data\5species\idMSMS\cdf\New idmsms assembly\Pearson Correlation\obj\Debug\Pearson Correlation.pdb
+E:\Collaboration Work\Emmanuel\QToF data\5species\idMSMS\cdf\New idmsms assembly\Pearson Correlation\bin\Debug\Pearson Correlation.exe
+E:\Collaboration Work\Emmanuel\QToF data\5species\idMSMS\cdf\New idmsms assembly\Pearson Correlation\bin\Debug\Pearson Correlation.pdb
+E:\Collaboration Work\Emmanuel\QToF data\5species\idMSMS\cdf\New idmsms assembly\Pearson Correlation\obj\Debug\Pearson Correlation.csprojResolveAssemblyReference.cache
+E:\Different tissues\idMSMS different tissue\MIX Results\New idmsms assembly to share\Pearson Correlation\obj\Debug\Pearson Correlation.exe
+E:\Different tissues\idMSMS different tissue\MIX Results\New idmsms assembly to share\Pearson Correlation\obj\Debug\Pearson Correlation.pdb
